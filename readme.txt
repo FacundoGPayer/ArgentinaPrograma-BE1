@@ -1,0 +1,1 @@
+En este repositorio se encuentran las carpetas de los proyectos del curso de backend 1 de Argentina Programa 4.0, conducido por Egg Cooperation.
